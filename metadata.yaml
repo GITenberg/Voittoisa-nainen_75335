@@ -1,0 +1,32 @@
+_repo: Voittoisa-nainen_75335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coulevain, Pierre de
+    aliases:
+    - De Coulevain, Pierre
+    - Favre de Coulevain, Hélène
+    - Favre de Coulevain, Helene
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '53221'
+    url: http://www.gutenberg.org/2009/agents/53221
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_de_Coulevain
+description: ''
+gutenberg_issued: '2025-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75335'
+language: fi
+pgterms:marc905: 20241022111716coulevain
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voittoisa nainen
+url: http://www.gutenberg.org/ebooks/75335
