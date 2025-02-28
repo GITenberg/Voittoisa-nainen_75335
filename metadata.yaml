@@ -1,5 +1,8 @@
 _repo: Voittoisa-nainen_75335
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coulevain, Pierre de
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53221
     wikipedia: https://fr.wikipedia.org/wiki/Pierre_de_Coulevain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75335#Voittoisa-nainen
 gutenberg_issued: '2025-02-10'
 gutenberg_type: Text
 identifiers:
